@@ -1,0 +1,456 @@
+Durak Log File
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	The Jack of Diamonds, The Eight of Diamonds, The Ten of Spades, The Ten of Clubs, The Nine of Hearts, The Queen of Clubs, 
+
+	PlayerTwoCards: 
+	The Four of Diamonds, The Six of Diamonds, The King of Spades, The Seven of Diamonds, The Ace of Diamonds, The Five of Clubs, 
+
+	RiverCards
+	
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	The Ten of Clubs, The Five of Hearts, The Six of Diamonds, The Nine of Spades, The Four of Clubs, 
+
+	PlayerTwoCards: 
+	The Four of Spades, The Deuce of Diamonds, The Jack of Spades, The Three of Diamonds, The Three of Spades, 
+
+	RiverCards
+	The Ace of Clubs, The Deuce of Hearts, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	The Ten of Hearts, The Four of Diamonds, The Three of Spades, The Deuce of Diamonds, 
+
+	PlayerTwoCards: 
+	The Jack of Hearts, The Five of Hearts, The Ace of Hearts, The Four of Spades, The Deuce of Spades, 
+
+	RiverCards
+	The King of Spades, The Queen of Diamonds, The Queen of Spades, 
+
+ROUND: 2
+	PlayerOneCards: 
+	The Ten of Hearts, The Four of Diamonds, The Three of Spades, The Deuce of Diamonds, The Jack of Clubs, The Ten of Spades, 
+
+	PlayerTwoCards: 
+	The Five of Hearts, The Ace of Hearts, The Four of Spades, The Deuce of Spades, The King of Spades, The Queen of Diamonds, The Queen of Spades, 
+
+	RiverCards
+	The Jack of Hearts, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	
+
+	PlayerTwoCards: 
+	
+
+	RiverCards
+	
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	The Six of Hearts, The Eight of Clubs, The Eight of Diamonds, The Deuce of Spades, The Jack of Spades, 
+
+	PlayerTwoCards: 
+	The Queen of Hearts, The Three of Spades, The King of Hearts, The Jack of Diamonds, The Eight of Spades, 
+
+	RiverCards
+	The Nine of Diamonds, The Three of Clubs, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+ROUND: 1
+	PlayerOneCards: 
+	The Jack of Diamonds, The King of Clubs, The King of Diamonds, The Five of Clubs, The Queen of Spades, 
+
+	PlayerTwoCards: 
+	The Jack of Spades, The Nine of Clubs, The Three of Spades, The Three of Hearts, The Ace of Diamonds, 
+
+	RiverCards
+	The Deuce of Hearts, The Four of Hearts, 
+
+ROUND: 2
+	PlayerOneCards: 
+	The King of Clubs, The King of Diamonds, The Five of Clubs, The Queen of Spades, The Three of Diamonds, 
+
+	PlayerTwoCards: 
+	The Nine of Clubs, The Three of Spades, The Three of Hearts, The Ace of Diamonds, The Five of Diamonds, 
+
+	RiverCards
+	The Jack of Spades, The Jack of Diamonds, 
+
+ROUND: 3
+	PlayerOneCards: 
+	The Five of Clubs, The Queen of Spades, The Three of Diamonds, The Three of Clubs, 
+
+	PlayerTwoCards: 
+	The Nine of Clubs, The Three of Spades, The Three of Hearts, The Five of Diamonds, The Jack of Clubs, 
+
+	RiverCards
+	The King of Clubs, The Ace of Diamonds, The King of Diamonds, 
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
+
+NEW GAME
+
+ PlayerOne Win/Loss Ratio 0/0
+
+ PlayerTwo Win/Loss Ratio 0/0
+
